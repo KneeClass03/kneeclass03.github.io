@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kneeclass03.github.io/blog/sitemap.xml
+Sitemap: https://kneeclass03.github.io/sitemap.xml

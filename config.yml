@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://kneeclass03.github.io/hugo-website/" 
+title: Niklas Paul
 paginate: 20
 theme: PaperMod
 
@@ -11,30 +11,23 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
-          weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
         - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+          url: blog/
+          weight: 2
+        - name: Projects
+          url: projects/
+          weight: 3
+        - name: Archive
+          url: archive/
+          weight: 7
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
-    # googleAnalyticsID: "G-XXXXX"
+    description: "I am a student of Computer Science, enrolled at the Ulm University of Applied Sciences. I have worked as a research intern at both the University of Toronto and the Fraunhofer Institute for Integrated Circuits in Nuremberg."
+    author: Niklas Paul
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -43,7 +36,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["blog","projects"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -53,49 +46,29 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Niklas Paul
+          subtitle: "I am a student of Computer Science, enrolled at the Ulm University of Applied Sciences. I have worked as a research intern at both the University of Toronto and the Fraunhofer Institute for Integrated Circuits in Nuremberg."
           imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
+          imageWidth: 240
+          imageHeight: 240
+          imageTitle: Niklas Paul - profile picture
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
+            - name: Blog
+              url: blog/
+            - name: Projects
+              url: projects/
             - name: Tags
               url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-
+            
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: mailto:niklas.paul@murena.io
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://github.com/kneeclass03
 
     assets:
         disableScrollBarStyle: true
@@ -103,7 +76,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Niklas Paul"
       icon: favicon.ico
       iconHeight: 18
 

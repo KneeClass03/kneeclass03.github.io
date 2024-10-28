@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ray Tracing on Niklas Paul</title>
-    <link>http://localhost:1313/hugo-website/tags/ray-tracing/</link>
+    <link>https://kneeclass03.github.io/hugo-website/tags/ray-tracing/</link>
     <description>Recent content in Ray Tracing on Niklas Paul</description>
     <generator>Hugo -- 0.134.2</generator>
     <language>en</language>
     <lastBuildDate>Sat, 12 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-website/tags/ray-tracing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kneeclass03.github.io/hugo-website/tags/ray-tracing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Royal Tracer: A (Sprint) Retrospective</title>
-      <link>http://localhost:1313/hugo-website/blog/royal-tracer/</link>
+      <link>https://kneeclass03.github.io/hugo-website/blog/royal-tracer/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/blog/royal-tracer/</guid>
+      <guid>https://kneeclass03.github.io/hugo-website/blog/royal-tracer/</guid>
       <description>In this post, I look back two semesters at a great semester project which introduced me to the world of computer graphics</description>
     </item>
   </channel>

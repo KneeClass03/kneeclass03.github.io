@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Niklas Paul</title>
-    <link>http://localhost:1313/hugo-website/</link>
+    <link>https://kneeclass03.github.io/hugo-website/</link>
     <description>Recent content on Niklas Paul</description>
     <generator>Hugo -- 0.134.2</generator>
     <language>en</language>
     <lastBuildDate>Sat, 12 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kneeclass03.github.io/hugo-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Auswahlseminar der Studienstiftung: Erfahrungsbericht</title>
-      <link>http://localhost:1313/hugo-website/blog/auswahlseminar/</link>
+      <link>https://kneeclass03.github.io/hugo-website/blog/auswahlseminar/</link>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/blog/auswahlseminar/</guid>
+      <guid>https://kneeclass03.github.io/hugo-website/blog/auswahlseminar/</guid>
       <description>This post describes my experiences and after-thoughts regarding my participation at a selective seminar of the German Academic Scholarship Foundation.</description>
     </item>
     <item>
       <title>Looking back at my time in Canada</title>
-      <link>http://localhost:1313/hugo-website/blog/mitacs-internship/</link>
+      <link>https://kneeclass03.github.io/hugo-website/blog/mitacs-internship/</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/blog/mitacs-internship/</guid>
+      <guid>https://kneeclass03.github.io/hugo-website/blog/mitacs-internship/</guid>
       <description>Reflecting on my research internship at the University of Toronto, I write about the many positive experiences I had and the great people that I met.</description>
     </item>
     <item>
       <title>Royal Tracer: A (Sprint) Retrospective</title>
-      <link>http://localhost:1313/hugo-website/blog/royal-tracer/</link>
+      <link>https://kneeclass03.github.io/hugo-website/blog/royal-tracer/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/blog/royal-tracer/</guid>
+      <guid>https://kneeclass03.github.io/hugo-website/blog/royal-tracer/</guid>
       <description>In this post, I look back two semesters at a great semester project which introduced me to the world of computer graphics</description>
     </item>
     <item>
       <title>Unusual Uses For Olive Oil</title>
-      <link>http://localhost:1313/hugo-website/papers/paper1/</link>
+      <link>https://kneeclass03.github.io/hugo-website/papers/paper1/</link>
       <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/papers/paper1/</guid>
+      <guid>https://kneeclass03.github.io/hugo-website/papers/paper1/</guid>
       <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
     </item>
     <item>
       <title>The Finer Points of Sausage Dogs</title>
-      <link>http://localhost:1313/hugo-website/papers/paper2/</link>
+      <link>https://kneeclass03.github.io/hugo-website/papers/paper2/</link>
       <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/papers/paper2/</guid>
+      <guid>https://kneeclass03.github.io/hugo-website/papers/paper2/</guid>
       <description>This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/hugo-website/projects/</link>
+      <link>https://kneeclass03.github.io/hugo-website/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/projects/</guid>
+      <guid>https://kneeclass03.github.io/hugo-website/projects/</guid>
       <description>&lt;pre&gt;&lt;code&gt; ____________________
 /                    \
 |      Work  in      |
